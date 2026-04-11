@@ -16,43 +16,35 @@ Currently working on:
 
 ---
 
-## 🛠 Tech Stack
+📂 Proof of Work
+🔹 Account Abstraction Wallet (WIP 🚧)
+Smart contract wallet implementing ERC-4337 concepts
+Handles user operations via contract-based accounts
+Current version uses internal wallet funds for gas
 
-* **Solidity** (Primary)
-* **Foundry** (Testing, scripting, deployment)
-* **JavaScript** (Basic / Previously used)
-* **HTML & CSS** (Basic / Previously used)
+In Progress:
 
----
+Integrating Paymasters for gas abstraction
+Improving validation & security logic
 
-## 📂 Proof of Work
+👉 https://github.com/barnabasmunuhe/YOUR-AA-
 
-### 🔹 Account Abstraction Wallet (Work In Progress 🚧)
-
-* Smart contract wallet implementation
-* Handles user operations via contract-based accounts
-* Current version uses internal wallet funds for gas
-
-**In Progress:**
-
-* Integrating **Paymasters for gas abstraction**
-* Improving validation & security logic
-
-👉 *(Link your repo here)*
 
 ---
 
 ### 🔹 FundMe (Crowdfunding Contract)
+In Progress:
 
 * Secure ETH funding contract
 * Owner-restricted withdrawals
-* Full unit testing with Foundry
+* Full testing with Foundry
 
 👉 *(Link your repo here)*
 
 ---
 
 ### 🔹 Lottery Smart Contract
+In Progress:
 
 * Decentralized lottery system
 * Automated winner selection logic
@@ -61,14 +53,11 @@ Currently working on:
 👉 *(Link your repo here)*
 
 ---
-
-### 🔹 ERC20 Token
-
-* Custom token implementation
-* Includes minting & transfers
-* Built with Solidity best practices
-
-👉 *(Link your repo here)*
+##🛠 Tech Stack
+Solidity (Primary)
+Foundry (Testing, scripting, deployment)
+JavaScript (Basic)
+HTML & CSS (Basic)
 
 ---
 
@@ -80,7 +69,7 @@ Currently working on:
 
 ---
 
-## 📈 Current Learning Roadmap
+## 📈 Current Focus
 
 * Account Abstraction (finalizing)
 * DAOs
@@ -91,7 +80,8 @@ Currently working on:
 
 ## 📬 Contact
 
-* Twitter: *(Add your link)*
+* Twitter: https://x.com/BarneyChainDev
+
 * GitHub: https://github.com/barnabasmunuhe
 
 ---
