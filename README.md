@@ -28,7 +28,7 @@ In Progress:
 Integrating Paymasters for gas abstraction
 Improving validation & security logic
 
-👉 https://github.com/barnabasmunuhe/YOUR-AA-
+👉 https://github.com/barnabasmunuhe/Account-Abstraction
 
 
 ---
@@ -40,7 +40,7 @@ In Progress:
 * Owner-restricted withdrawals
 * Full testing with Foundry
 
-👉 *(Link your repo here)*
+👉 https://github.com/barnabasmunuhe/CrowdFunding-Smart-Contract
 
 ---
 
