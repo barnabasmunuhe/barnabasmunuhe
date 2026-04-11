@@ -51,7 +51,7 @@ In Progress:
 * Automated winner selection logic
 * Tested for edge cases
 
-👉 *(Link your repo here)*
+👉 https://github.com/barnabasmunuhe/Lottery-Smart-Contract
 
 ---
 ##🛠 Tech Stack
