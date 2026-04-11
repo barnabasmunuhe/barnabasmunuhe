@@ -17,6 +17,7 @@ Currently working on:
 ---
 
 📂 Proof of Work
+---
 🔹 Account Abstraction Wallet (WIP 🚧)
 Smart contract wallet implementing ERC-4337 concepts
 Handles user operations via contract-based accounts
