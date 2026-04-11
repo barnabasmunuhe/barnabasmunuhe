@@ -55,10 +55,10 @@ In Progress:
 
 ---
 ##🛠 Tech Stack
-Solidity (Primary)
-Foundry (Testing, scripting, deployment)
-JavaScript (Basic)
-HTML & CSS (Basic)
+* Solidity (Primary)
+* Foundry (Testing, scripting, deployment)
+* JavaScript (Basic)
+* HTML & CSS (Basic)
 
 ---
 
