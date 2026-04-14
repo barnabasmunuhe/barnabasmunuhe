@@ -11,12 +11,15 @@ Smart contract developer focused on **building and testing secure EVM systems** 
 Currently working on:
 
 * Account Abstraction (ERC-4337 concepts)
+* Crowd Funding project
 * Smart contract security & testing
 * Real-world DeFi-style contract patterns
 
 ---
 
 📂 Proof of Work
+
+Selected projects demonstrating real smart contract development, testing, and system design.
 ---
 🔹 Account Abstraction Wallet (WIP 🚧)
 Smart contract wallet implementing ERC-4337 concepts
@@ -26,21 +29,32 @@ Current version uses internal wallet funds for gas
 In Progress:
 
 Integrating Paymasters for gas abstraction
-Improving validation & security logic
+Strengthening validation logic & security guarantees
 
 👉 https://github.com/barnabasmunuhe/Account-Abstraction
 
+---
+### 🔹 FundMe (Crowdfunding Smart Contract)
+* Secure ETH crowdfunding contract (fund, refund, withdraw)
+* State-driven logic + fee system (platform & refund fees)
+* Built with Foundry using test-driven development
+* 25+ unit tests covering core flows & multi-user scenarios (~78% coverage)
+
+👉 https://github.com/barnabasmunuhe/CrowdFunding-Smart-Contract
 
 ---
 
-### 🔹 FundMe (Crowdfunding Contract)
 In Progress:
+* Deployment scripts (Foundry)
+* Integration testing
+* Project documentation
 
-* Secure ETH funding contract
-* Owner-restricted withdrawals
-* Full testing with Foundry
+---
 
-👉 https://github.com/barnabasmunuhe/CrowdFunding-Smart-Contract
+Future:
+* Campaign factory (multi-campaign support)
+* DAO treasury integration
+* Frontend (React + Web3)
 
 ---
 
