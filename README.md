@@ -23,9 +23,9 @@ Selected projects demonstrating real smart contract development, testing, and sy
 
 ---
 ### 🔹 Account Abstraction Wallet (Work In Progress)
-*Smart contract wallet implementing ERC-4337 concepts
-*Handles user operations via contract-based accounts
-*Current version uses internal wallet funds for gas
+* Smart contract wallet implementing ERC-4337 concepts
+* Handles user operations via contract-based accounts
+* Current version uses internal wallet funds for gas
 
 👉 https://github.com/barnabasmunuhe/Account-Abstraction
 
