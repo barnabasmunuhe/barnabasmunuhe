@@ -20,21 +20,21 @@ Currently working on:
 ## 📂 Proof of Work
 
 Selected projects demonstrating real smart contract development, testing, and system design.
+
 ---
-###🔹 Account Abstraction Wallet (WIP 🚧)
+### 🔹 Account Abstraction Wallet (Work In Progress)
 *Smart contract wallet implementing ERC-4337 concepts
 *Handles user operations via contract-based accounts
 *Current version uses internal wallet funds for gas
 
-In Progress:
-
-*Integrating Paymasters for gas abstraction
-*Strengthening validation logic & security guarantees
-
 👉 https://github.com/barnabasmunuhe/Account-Abstraction
 
+In Progress:
+* Integrating Paymasters for gas abstraction
+* Strengthening validation logic & security guarantees
+
 ---
-### 🔹 FundMe (Crowdfunding Smart Contract)
+### 🔹 FundMe (Crowdfunding Smart Contract) 
 * Secure ETH crowdfunding contract (fund, refund, withdraw)
 * State-driven logic + fee system (platform & refund fees)
 * Built with Foundry using test-driven development
