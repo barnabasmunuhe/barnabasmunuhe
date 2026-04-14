@@ -42,14 +42,10 @@ In Progress:
 
 👉 https://github.com/barnabasmunuhe/CrowdFunding-Smart-Contract
 
----
-
 In Progress:
 * Deployment scripts (Foundry)
 * Integration testing
 * Project documentation
-
----
 
 Future:
 * Campaign factory (multi-campaign support)
