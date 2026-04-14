@@ -17,7 +17,7 @@ Currently working on:
 
 ---
 
-📂 Proof of Work
+## 📂 Proof of Work
 
 Selected projects demonstrating real smart contract development, testing, and system design.
 ---
