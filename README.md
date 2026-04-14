@@ -21,15 +21,15 @@ Currently working on:
 
 Selected projects demonstrating real smart contract development, testing, and system design.
 ---
-🔹 Account Abstraction Wallet (WIP 🚧)
-Smart contract wallet implementing ERC-4337 concepts
-Handles user operations via contract-based accounts
-Current version uses internal wallet funds for gas
+###🔹 Account Abstraction Wallet (WIP 🚧)
+*Smart contract wallet implementing ERC-4337 concepts
+*Handles user operations via contract-based accounts
+*Current version uses internal wallet funds for gas
 
 In Progress:
 
-Integrating Paymasters for gas abstraction
-Strengthening validation logic & security guarantees
+*Integrating Paymasters for gas abstraction
+*Strengthening validation logic & security guarantees
 
 👉 https://github.com/barnabasmunuhe/Account-Abstraction
 
