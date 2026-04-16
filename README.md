@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Barnabas
 
-🚀 Solidity Engineer | Smart Contract Developer
+🚀 Solidity Engineer | Smart Contract Developer | Building Secure Smart Contracts
 
 ---
 
