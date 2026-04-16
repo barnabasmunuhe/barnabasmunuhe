@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Barnabas
 
-🚀 Solidity Engineer | Smart Contract Developer (EVM) | Building Secure Smart Contracts
+🚀 Solidity Engineer | Smart Contract Developer
 
 ---
 
@@ -9,9 +9,7 @@ Smart contract developer focused on building **secure, tested, and production-re
 ---
 
 ## 🔗 Connect
-- [Twitter](https://x.com/BarneyChainDev)
-- [GitHub](https://github.com/barnabasmunuhe)
-- [LinkedIn](https://linkedin.com/in/barnabasmunuhe03)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BarneyChainDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barnabasmunuhe03) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnabasmunuhe)
 
 ---
 
