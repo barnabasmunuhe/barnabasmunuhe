@@ -1,102 +1,63 @@
-# 👋 Barnabas Munuhe
+# 👋 Hi, I'm Barnabas
 
-🚀 **Solidity Engineer | Smart Contract Developer (EVM)**
-
----
-
-## ⚡ Positioning
-
-Smart contract developer focused on **building and testing secure EVM systems** using **Foundry**.
-
-Currently working on:
-
-* Account Abstraction (ERC-4337 concepts)
-* Crowd Funding project
-* Smart contract security & testing
-* Real-world DeFi-style contract patterns
+🚀 Solidity Engineer | Smart Contract Developer (EVM) | Building Secure Smart Contracts
 
 ---
 
-## 📂 Proof of Work
-
-Selected projects demonstrating real smart contract development, testing, and system design.
+Smart contract developer focused on building **secure, tested, and production-ready EVM systems** using Foundry.
 
 ---
-### 🔹 Account Abstraction Wallet (Work In Progress)
-* Smart contract wallet implementing ERC-4337 concepts
-* Handles user operations via contract-based accounts
-* Current version uses internal wallet funds for gas
+
+## 🔗 Connect
+- [Twitter](https://x.com/BarneyChainDev)
+- [GitHub](https://github.com/barnabasmunuhe)
+- [LinkedIn](https://linkedin.com/in/barnabasmunuhe03)
+
+---
+
+## ⚡ Selected Work
+*Selected projects demonstrating real smart contract development, testing, and system design.*
+
+### 🔹 Account Abstraction Wallet (WIP 🚧)
+ERC-4337-based smart contract wallet with user operation handling.  
+Currently upgrading to **Paymaster-based gas abstraction**.
 
 👉 https://github.com/barnabasmunuhe/Account-Abstraction
 
-In Progress:
-* Integrating Paymasters for gas abstraction
-* Strengthening validation logic & security guarantees
-
 ---
-### 🔹 FundMe (Crowdfunding Smart Contract) 
-* Secure ETH crowdfunding contract (fund, refund, withdraw)
-* State-driven logic + fee system (platform & refund fees)
-* Built with Foundry using test-driven development
-* 25+ unit tests covering core flows & multi-user scenarios (~78% coverage)
+
+### 🔹 FundMe (Crowdfunding Contract)
+Secure ETH funding contract with **independently written tests using Foundry**.
 
 👉 https://github.com/barnabasmunuhe/CrowdFunding-Smart-Contract
-
-In Progress:
-* Deployment scripts (Foundry)
-* Integration testing
-* Project documentation
-
-Future:
-* Campaign factory (multi-campaign support)
-* DAO treasury integration
-* Frontend (React + Web3)
 
 ---
 
 ### 🔹 Lottery Smart Contract
-In Progress:
-
-* Decentralized lottery system
-* Automated winner selection logic
-* Tested for edge cases
+Decentralized lottery system with automated winner selection logic.
 
 👉 https://github.com/barnabasmunuhe/Lottery-Smart-Contract
 
 ---
-##🛠 Tech Stack
-* Solidity (Primary)
-* Foundry (Testing, scripting, deployment)
-* JavaScript (Basic)
-* HTML & CSS (Basic)
+
+### 🔹 CCIP Rebase Token
+Token exploring **cross-chain mechanics and rebase logic**.
+
+👉 https://github.com/barnabasmunuhe/CCIP-Rebase-Token
 
 ---
 
-## 🧪 Engineering Focus
+### 🔹 NFT Smart Contract
+ERC721 implementation currently being refined with deeper testing.
 
-* Writing **test-driven smart contracts**
-* Understanding **EVM internals**
-* Building **secure & gas-efficient systems**
-
----
-
-## 📈 Current Focus
-
-* Account Abstraction (finalizing)
-* DAOs
-* Smart Contract Security
-* Fullstack Web3 (Cyfrin)
+👉 https://github.com/barnabasmunuhe/YOUR-NFT-REPO
 
 ---
 
-## 📬 Contact
-
-* Twitter: https://x.com/BarneyChainDev
-
-* GitHub: https://github.com/barnabasmunuhe
+## 🛠 Stack
+Solidity • Foundry • JavaScript (basic) • HTML/CSS (basic)
 
 ---
 
-## 🧭 Note
-
-All projects are actively improved and iterated as I deepen my understanding of smart contract development.
+## 🎯 Current Focus
+Account Abstraction • Smart Contract Security • DAOs • Fullstack Web3
