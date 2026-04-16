@@ -48,7 +48,7 @@ Token exploring **cross-chain mechanics and rebase logic**.
 ### 🔹 NFT Smart Contract
 ERC721 implementation currently being refined with deeper testing.
 
-👉 https://github.com/barnabasmunuhe/YOUR-NFT-REPO
+👉 https://github.com/barnabasmunuhe/YOUR-NFT-project
 
 ---
 
