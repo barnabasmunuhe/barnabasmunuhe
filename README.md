@@ -31,7 +31,7 @@ Secure ETH funding contract with **independently written tests using Foundry**.
 
 ---
 
-### 🔹 Lottery Smart Contract
+### 🔹 Decentralized Lottery Smart Contract
 Decentralized lottery system with automated winner selection logic.
 
 👉 https://github.com/barnabasmunuhe/Lottery-Smart-Contract
