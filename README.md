@@ -24,7 +24,7 @@ Currently upgrading to **Paymaster-based gas abstraction**.
 
 ---
 
-### 🔹 FundMe (Crowdfunding Contract)
+### 🔹 Secure Crowd_Funding Protocol
 Secure ETH funding contract with **independently written tests using Foundry**.
 
 👉 https://github.com/barnabasmunuhe/Secure-Crowd_Funding-Protocol
