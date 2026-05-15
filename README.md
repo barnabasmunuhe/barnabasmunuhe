@@ -16,6 +16,13 @@ Smart contract developer focused on building **secure, tested, and production-re
 ## ⚡ Selected Work
 *Selected projects demonstrating real smart contract development, testing, and system design.*
 
+### 🔹 Secure Crowd_Funding Protocol
+Secure ETH funding contract with **independently written tests using Foundry**.
+
+👉 https://github.com/barnabasmunuhe/Secure-Crowd_Funding-Protocol
+
+---
+
 ### 🔹 Account Abstraction Wallet (WIP 🚧)
 ERC-4337-based smart contract wallet with user operation handling.  
 Currently upgrading to **Paymaster-based gas abstraction**.
@@ -24,12 +31,6 @@ Currently upgrading to **Paymaster-based gas abstraction**.
 
 ---
 
-### 🔹 Secure Crowd_Funding Protocol
-Secure ETH funding contract with **independently written tests using Foundry**.
-
-👉 https://github.com/barnabasmunuhe/Secure-Crowd_Funding-Protocol
-
----
 
 ### 🔹 Decentralized Lottery Smart Contract
 Decentralized lottery system with automated winner selection logic.
