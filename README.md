@@ -1,8 +1,8 @@
-                                                        # Barnabas Mwangi Munuhe
+# Barnabas Mwangi Munuhe
 
-                                      ### Blockchain Engineer · Smart Contracts, DeFi & Web3 Infrastructure
+### Blockchain Engineer · Smart Contracts, DeFi & Web3 Infrastructure
 
-                                              Solidity · Foundry · Chainlink · EVM Systems
+ Solidity · Foundry · Chainlink · EVM Systems
 
 Building and testing smart contracts and decentralized systems, with hands-on project work across collateralized stablecoins, secure fund flows, cross-chain token infrastructure, and account abstraction. Focused on understanding protocol mechanics, writing reliable tests, and developing the engineering judgment required to build secure Web3 systems.
 
