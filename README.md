@@ -1,8 +1,26 @@
+
+<div align="center">
+
 # Barnabas Mwangi Munuhe
 
 ### Blockchain Engineer · Smart Contracts, DeFi & Web3 Infrastructure
 
- Solidity · Foundry · Chainlink · EVM Systems
+**Solidity · Foundry · Chainlink · EVM Systems**
+
+---
+
+## 🔗 Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BarneyChainDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barnabasmunuhe03)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@princebarney03?si=7M5G3_L9qnsxiLMe)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@barnabasmunuhe.web3dev)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32628551/prince-barney)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnabasmunuhe)
+
+</div>
+
+---
 
 Building and testing smart contracts and decentralized systems, with hands-on project work across collateralized stablecoins, secure fund flows, cross-chain token infrastructure, and account abstraction. Focused on understanding protocol mechanics, writing reliable tests, and developing the engineering judgment required to build secure Web3 systems.
 
