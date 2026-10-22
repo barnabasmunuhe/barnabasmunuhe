@@ -15,8 +15,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnabasmunuhe)
 
 </div>
----
 
+---
 Building and testing smart contracts and decentralized systems, with hands-on project work across collateralized stablecoins, secure fund flows, cross-chain token infrastructure, and account abstraction. Focused on understanding protocol mechanics, writing reliable tests, and developing the engineering judgment required to build secure Web3 systems.
 ---
 
