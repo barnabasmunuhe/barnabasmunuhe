@@ -17,9 +17,6 @@
 </div>
 
 Building and testing smart contracts and decentralized systems, with hands-on project work across collateralized stablecoins, secure fund flows, cross-chain token infrastructure, and account abstraction. Focused on understanding protocol mechanics, writing reliable tests, and developing the engineering judgment required to build secure Web3 systems.
-
-**[GitHub](https://github.com/barnabasmunuhe) · [LinkedIn](https://linkedin.com/in/barnabasmunuhe03) · [X](https://x.com/BarneyChainDev) · [Medium](https://medium.com/@barnabasmunuhe.web3dev) · [YouTube](https://youtube.com/@princebarney03)**
-
 ---
 
 ## Selected Work
