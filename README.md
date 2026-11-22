@@ -1,97 +1,138 @@
-
-<div align="center">
+ <div align="center">
 
 # Barnabas Mwangi Munuhe
 
-### Blockchain Engineer · Smart Contracts, DeFi & Web3 Infrastructure
+### Blockchain Engineer | Smart Contracts · DeFi · Web3 Infrastructure
 
 **Solidity · Foundry · Chainlink · EVM Systems**
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BarneyChainDev)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BarneyChainDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barnabasmunuhe03)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@princebarney03?si=7M5G3_L9qnsxiLMe)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@princebarney03)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@barnabasmunuhe.web3dev)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32628551/prince-barney)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnabasmunuhe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barnabasmunuhe)
 
 </div>
 
 ---
-Building and testing smart contracts and decentralized systems, with hands-on project work across collateralized stablecoins, secure fund flows, cross-chain token infrastructure, and account abstraction. Focused on understanding protocol mechanics, writing reliable tests, and developing the engineering judgment required to build secure Web3 systems.
----
 
-## Selected Work
+I build and test smart contracts and decentralized systems, with hands-on work across DeFi mechanisms, collateralized stablecoins, secure fund flows, cross-chain token infrastructure, and account abstraction.
 
-### Barney Stablecoin Protocol
-Designed and implemented a collateral-backed stablecoin system using ETH/BTC collateral, Chainlink price feeds, collateral valuation, health-factor calculations, and minting/redemption mechanics. Explored solvency conditions and the relationship between oracle prices, collateral values, and user positions.
+My engineering focus is understanding protocol mechanics, implementing reliable on-chain systems, and validating their behavior through testing, debugging, and security-conscious development.
 
-→ [Source code](https://github.com/barnabasmunuhe/Barney-StableCoin)
+## Selected Engineering Work
 
-### Secure Crowdfunding Protocol
-Built a crowdfunding protocol with campaign deadlines, funding goals, lifecycle states, and investor refunds. Applied checks-effects-interactions, access control, and reentrancy-conscious design. Used Foundry to debug a refund-calculation bug and validate contract behavior.
+### 1. Barney Stablecoin Protocol
 
-**Testing:** 34 passing unit tests; approximately 89% line coverage and 92% statement coverage.
+Designed and implemented a collateral-backed stablecoin system using ETH and BTC collateral, Chainlink price feeds, collateral valuation, health-factor calculations, and minting and redemption mechanics.
 
-→ [Source code](https://github.com/barnabasmunuhe/Secure-Crowd_Funding-Protocol)
+**Engineering focus:** Collateral accounting · Oracle integration · Solvency · Liquidation mechanics · Foundry testing
 
-### Cross-Chain Rebase Token
+→ [Source Code](https://github.com/barnabasmunuhe/Barney-StableCoin)
+
+### 2. Secure CrowdFunding Protocol
+
+Built an Ethereum crowdfunding protocol with USD-denominated funding goals, Chainlink ETH/USD valuation, campaign lifecycle management, fee-aware withdrawals, and contributor refunds.
+
+Implemented `ACTIVE`, `SUCCESS`, and `FAILED` campaign states, reentrancy protection, access control, and Checks-Effects-Interactions.
+
+**Testing:** 93 passing tests recorded across unit, fork, fuzz, and invariant testing. Results should be rerun against the exact published commit.
+
+**Technical documentation:**
+
+- 📄 [Read the Technical Whitepaper (PDF)](https://github.com/barnabasmunuhe/Secure-Crowd_Funding-Protocol/blob/main/docs/whitepaper/Secure_CrowdFunding_Protocol_Whitepaper.pdf)
+- 🌐 [Live Application](https://secure-crowd-funding-protocol.vercel.app/)
+- 🔍 [Sepolia Contract](https://sepolia.etherscan.io/address/0x537e0E1B28187371b8f3C6516b62c170975bec2b)
+- 💻 [Source Code](https://github.com/barnabasmunuhe/Secure-Crowd_Funding-Protocol)
+
+### 3. Cross-Chain Rebase Token
+
 Worked on a rebase-token system integrating Chainlink CCIP, including token-pool components and cross-chain transfer flows. Explored how token movement and rebase mechanics interact across blockchain networks.
 
-→ [Source code](https://github.com/barnabasmunuhe/ccip-Rebase-Token)
+**Engineering focus:** Chainlink CCIP · Token pools · Cross-chain messaging · Rebase mechanics
 
-### Account Abstraction
+→ [Source Code](https://github.com/barnabasmunuhe/ccip-Rebase-Token)
+
+### 4. Account Abstraction
+
 Developing a smart-account implementation exploring ERC-4337 concepts and zkSync Era. Focus areas include user-operation validation, account execution, signature handling, and paymaster-based gas abstraction.
 
-→ [Source code](https://github.com/barnabasmunuhe/Account-Abstraction)
+**Engineering focus:** ERC-4337 · Smart accounts · UserOperations · zkSync Era
 
-### Merkle Airdrop
-Explored Merkle-proof-based eligibility verification and signed-claim mechanisms using EIP-712, with a focus on claim validation and preventing repeated claims.
+→ [Source Code](https://github.com/barnabasmunuhe/Account-Abstraction)
 
-→ [Source code](https://github.com/barnabasmunuhe/Merkle-Airdrop)
+### 5. Merkle Airdrop
 
-### TSender — Web3 Frontend Practice
-Built a practice implementation of a token-distribution interface using Next.js, TypeScript, wagmi, viem, and RainbowKit. Worked on wallet connectivity, transaction flows, and frontend interaction with smart contracts.
+Implemented Merkle-proof-based eligibility verification and signed-claim mechanisms using EIP-712, focusing on claim validation and preventing repeated claims.
 
-→ [Source code](https://github.com/barnabasmunuhe/Full-Stack-Web3-Learning-repo) · [Live demo](https://tsender-two.vercel.app)
+**Engineering focus:** Merkle Trees · EIP-712 · Signature Verification · Claim Accounting
+
+→ [Source Code](https://github.com/barnabasmunuhe/Merkle-Airdrop)
+
+### 6. TSender — Web3 Frontend
+
+Built a token-distribution interface using Next.js, TypeScript, wagmi, viem, and RainbowKit. Worked on wallet connectivity, transaction flows, and frontend interaction with smart contracts.
+
+**Engineering focus:** React · Next.js · TypeScript · wagmi · viem
+
+→ [Source Code](https://github.com/barnabasmunuhe/Full-Stack-Web3-Learning-repo) · [Live Demo](https://tsender-two.vercel.app)
 
 ---
 
 ## Technical Stack
 
-**Smart Contracts:** Solidity · EVM · OpenZeppelin · ERC-20 · ERC-721 fundamentals
-
-**Development & Testing:** Foundry · Forge · Unit Testing · Fuzz Testing Fundamentals · Debugging · Slither
-
-**DeFi & Protocols:** Collateralized Stablecoins · Oracle-Based Valuation · Health Factors · Liquidation Mechanics · Token Accounting · Crowdfunding State Machines
-
-**Blockchain Infrastructure:** Chainlink Price Feeds · Chainlink CCIP · ERC-4337 Concepts · Merkle Proofs · EIP-712
-
-**Web3 Integration:** JavaScript · TypeScript · Next.js · React · wagmi · viem · RainbowKit
-
-**Tools & Environment:** Git · GitHub · Linux · WSL · PostgreSQL and Node.js fundamentals
+| Area | Technologies & Concepts |
+|---|---|
+| Smart Contracts | Solidity · EVM · OpenZeppelin · ERC-20 · ERC-721 |
+| Development & Testing | Foundry · Forge · Unit Testing · Fuzz Testing · Invariant Testing · Debugging |
+| DeFi | Stablecoins · Lending · Collateralization · Health Factors · Liquidations · AMMs |
+| Oracles & Interoperability | Chainlink Price Feeds · CCIP · Data Streams |
+| Account Abstraction | ERC-4337 · Smart Accounts · UserOperations · zkSync Era |
+| Cryptographic Primitives | Merkle Proofs · EIP-712 · Digital Signatures |
+| Web3 Integration | JavaScript · TypeScript · React · Next.js · wagmi · viem |
+| Tools & Environment | Git · GitHub · Linux · WSL · Slither |
 
 ---
 
 ## Current Focus
 
 - Deepening DeFi protocol engineering through Aave V3 and the Uniswap protocol family.
-- Improving independent Solidity implementation, Foundry testing, debugging, and security analysis.
-- Studying protocol accounting, liquidation mechanics, oracle dependencies, and smart-contract failure modes.
-- Strengthening full-stack Web3 integration and the connection between frontend applications and on-chain systems.
+- Understanding AMM design, liquidity provision, swaps, and protocol accounting.
+- Improving independent Solidity implementation and advanced Foundry testing.
+- Studying smart-contract security, oracle dependencies, liquidation mechanics, and protocol failure modes.
+- Building stronger full-stack Web3 integration skills.
 
 ---
 
-## Background
+## Education & Technical Development
 
 **Diploma in Information and Communication Technology (ICT)**  
 Wote Technical Training Institute, Kenya · 2025
 
 **Blockchain Development**  
-Cyfrin Updraft · Solidity, Foundry, smart-contract testing, DeFi concepts, and account abstraction.
+Cyfrin Updraft · Solidity, Foundry, smart-contract testing, DeFi, and account abstraction.
 
 **Blockchain Infrastructure**  
 Chainlink Technical Education · CCIP, Data Streams, and Proof of Reserve.
 
 ---
 
-Interested in opportunities involving smart contract engineering, DeFi protocol development, and Web3 infrastructure.
+## Opportunities
+
+Interested in opportunities involving:
+
+- Smart Contract Engineering
+- DeFi Protocol Development
+- Solidity Engineering
+- Web3 Infrastructure
+- Blockchain Protocol Integration
+
+I value engineering environments that emphasize technical depth, security, testing discipline, and continuous learning.
+
+---
+
+<div align="center">
+
+**Building with purpose. Engineering with discipline.**
+
+</div>
