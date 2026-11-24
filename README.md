@@ -68,21 +68,21 @@ Developing a smart-account implementation exploring ERC-4337 concepts and zkSync
 
 → [Source Code](https://github.com/barnabasmunuhe/Account-Abstraction)
 
-### 5. Merkle Airdrop
-
-Implemented Merkle-proof-based eligibility verification and signed-claim mechanisms using EIP-712, focusing on claim validation and preventing repeated claims.
-
-**Engineering focus:** Merkle Trees · EIP-712 · Signature Verification · Claim Accounting
-
-→ [Source Code](https://github.com/barnabasmunuhe/Merkle-Airdrop)
-
-### 6. TSender — Web3 Frontend
+### 5. TSender — Web3 Frontend
 
 Built a token-distribution interface using Next.js, TypeScript, wagmi, viem, and RainbowKit. Worked on wallet connectivity, transaction flows, and frontend interaction with smart contracts.
 
 **Engineering focus:** React · Next.js · TypeScript · wagmi · viem
 
 → [Source Code](https://github.com/barnabasmunuhe/Full-Stack-Web3-Learning-repo) · [Live Demo](https://tsender-two.vercel.app)
+
+### 6. Merkle Airdrop
+
+Implemented Merkle-proof-based eligibility verification and signed-claim mechanisms using EIP-712, focusing on claim validation and preventing repeated claims.
+
+**Engineering focus:** Merkle Trees · EIP-712 · Signature Verification · Claim Accounting
+
+→ [Source Code](https://github.com/barnabasmunuhe/Merkle-Airdrop)
 
 ---
 
