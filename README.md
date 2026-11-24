@@ -22,13 +22,20 @@ My engineering focus is understanding protocol mechanics, implementing reliable 
 
 ## Selected Engineering Work
 
-### 1. Barney Stablecoin Protocol
+### 1. Barney StableCoin Protocol
 
-Designed and implemented a collateral-backed stablecoin system using ETH and BTC collateral, Chainlink price feeds, collateral valuation, health-factor calculations, and minting and redemption mechanics.
+Designed and implemented a collateral-backed stablecoin system using ETH and BTC collateral, Chainlink price feeds, collateral valuation, health-factor calculations, minting, redemption, and liquidation mechanics.
 
 **Engineering focus:** Collateral accounting · Oracle integration · Solvency · Liquidation mechanics · Foundry testing
 
-→ [Source Code](https://github.com/barnabasmunuhe/Barney-StableCoin)
+**Testing:** 112 passing tests recorded across unit, fork integration, fuzz, and invariant testing. The invariant campaign recorded 256 runs and 32,768 handler calls without reverts.
+
+**Technical documentation:**
+
+- 📄 [Read the Technical Whitepaper (PDF)](https://github.com/barnabasmunuhe/Barney-StableCoin/blob/main/docs/whitepaper/Barney_StableCoin_Technical_Whitepaper_v1.0.pdf)
+- 🔍 [BarneyStableCoin — Sepolia](https://sepolia.etherscan.io/address/0xE028Ef489795CEE98DA4d66f97879bB3FcA55E64)
+- 🔍 [CoinEngine — Sepolia](https://sepolia.etherscan.io/address/0x515f8eED4344B28458D69899217A51F9c495701d)
+- 💻 [Source Code](https://github.com/barnabasmunuhe/Barney-StableCoin)
 
 ### 2. Secure CrowdFunding Protocol
 
