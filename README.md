@@ -52,7 +52,15 @@ Implemented `ACTIVE`, `SUCCESS`, and `FAILED` campaign states, reentrancy protec
 - 🔍 [Sepolia Contract](https://sepolia.etherscan.io/address/0x537e0E1B28187371b8f3C6516b62c170975bec2b)
 - 💻 [Source Code](https://github.com/barnabasmunuhe/Secure-Crowd_Funding-Protocol)
 
-### 3. Cross-Chain Rebase Token
+### 3. TSender — Web3 Frontend
+
+Built a token-distribution interface using Next.js, TypeScript, wagmi, viem, and RainbowKit. Worked on wallet connectivity, transaction flows, and frontend interaction with smart contracts.
+
+**Engineering focus:** React · Next.js · TypeScript · wagmi · viem
+
+→ [Source Code](https://github.com/barnabasmunuhe/Full-Stack-Web3-Learning-repo) · [Live Demo](https://tsender-two.vercel.app)
+
+### 4. Cross-Chain Rebase Token
 
 Worked on a rebase-token system integrating Chainlink CCIP, including token-pool components and cross-chain transfer flows. Explored how token movement and rebase mechanics interact across blockchain networks.
 
@@ -60,21 +68,13 @@ Worked on a rebase-token system integrating Chainlink CCIP, including token-pool
 
 → [Source Code](https://github.com/barnabasmunuhe/ccip-Rebase-Token)
 
-### 4. Account Abstraction
+### 5. Account Abstraction
 
 Developing a smart-account implementation exploring ERC-4337 concepts and zkSync Era. Focus areas include user-operation validation, account execution, signature handling, and paymaster-based gas abstraction.
 
 **Engineering focus:** ERC-4337 · Smart accounts · UserOperations · zkSync Era
 
 → [Source Code](https://github.com/barnabasmunuhe/Account-Abstraction)
-
-### 5. TSender — Web3 Frontend
-
-Built a token-distribution interface using Next.js, TypeScript, wagmi, viem, and RainbowKit. Worked on wallet connectivity, transaction flows, and frontend interaction with smart contracts.
-
-**Engineering focus:** React · Next.js · TypeScript · wagmi · viem
-
-→ [Source Code](https://github.com/barnabasmunuhe/Full-Stack-Web3-Learning-repo) · [Live Demo](https://tsender-two.vercel.app)
 
 ### 6. Merkle Airdrop
 
